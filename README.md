@@ -13,3 +13,6 @@ Not knowing the type of skin lesion or too much-delayed diagnosis can lead to ch
 - The presence of essential image preprocessing techniques to enhance the process of feature extraction.
 - Generation of synthetic data by training the Wasserstain GAN with gradient penalty
 - Training a CNN architecture with the (synthetic data + original data) thus obtaining an improved and higher accuracy as compared to other works
+
+## Preprocessing
+<img src="Images/design_overview.png" width="1000"/>
