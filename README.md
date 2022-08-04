@@ -1,7 +1,9 @@
 # SkinAid
-This is the official implementation of our paper titled:  SkinAid: A GAN-based Automatic Skin Lesion Monitoring Method for IoMT Frameworks
+This is the official implementation of our paper titled:  **SkinAid: A GAN-based Automatic Skin Lesion Monitoring Method for IoMT Frameworks**
 
-Conference: 2021 19th OITS International Conference on Information Technology (OCIT). Please click [here](https://ieeexplore.ieee.org/document/9719383) to access our paper. 
+**Conference:** 2021 19th OITS International Conference on Information Technology (OCIT). 
+
+Please click [here](https://ieeexplore.ieee.org/document/9719383) to access our paper. 
 
 ## Authors:
 Prathistith Raj Medi, Praneeth Nemani, Pitta Vivek Reddy, Dr. Venkanna U, Dr. Debanjan Das and Dr. Saraju P. Mohanty
@@ -14,5 +16,9 @@ Not knowing the type of skin lesion or too much-delayed diagnosis can lead to ch
 - Generation of synthetic data by training the Wasserstain GAN with gradient penalty
 - Training a CNN architecture with the (synthetic data + original data) thus obtaining an improved and higher accuracy as compared to other works
 
-## Preprocessing
+## Preprocessing:
 <img src="Images/ImgPP_page-0001.jpg" width="1000"/>
+
+## Synthetic Samples:
+<img src="Images/ImgPP_page-0001.jpg" width="1000"/>
+
