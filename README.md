@@ -15,4 +15,4 @@ Not knowing the type of skin lesion or too much-delayed diagnosis can lead to ch
 - Training a CNN architecture with the (synthetic data + original data) thus obtaining an improved and higher accuracy as compared to other works
 
 ## Preprocessing
-<img src="Images/design_overview.png" width="1000"/>
+<img src="Images/ImgPP_page-0001.jpg" width="1000"/>
